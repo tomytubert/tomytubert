@@ -8,10 +8,14 @@
 </p>
 
 
-### Who I'am?
-My name is Tomy Tubert, I'm 23 years old and I'm the son of a poseidon but with a computer in my hands during the week.🧜🏼‍♂️🏄🏽‍♂️💻
+### Who I'am?🧐
 
+🧜🏼‍♂️🏄🏽‍♂️💻
+My name is Tomy Tubert, I'm 23 years old and I'm the son of a poseidon but with a computer in my hands during the week.
+🛠😜
 I love to innovate and be creative. To do this I am constantly learning as the speed at which we go is close to the speed of light.
+
+
 ```js
 const tomytubert = {
 code:[JavaScript,CSS,HTML 5,React],
