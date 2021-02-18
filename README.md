@@ -27,10 +27,10 @@ tools:[NodeJS,Express,MongoDB]
 
 ### Digital Marketing Knowledge
 
-´´´js
+```js
 const Tools = {
 Google:[Analytics,Adwords,Search Console],
 Others:[Screaming Frog,SemRush,Ubersuggest,Hubspot],
 Facebook:[Facebook Ads]
 }
-````
+```
