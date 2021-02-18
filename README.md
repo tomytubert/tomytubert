@@ -4,8 +4,9 @@
 </p>
   ---
  <p>
-  <img width="250" align='left' src="https://media-exp1.licdn.com/dms/image/C4D03AQGweRqR3iUMvQ/profile-displayphoto-shrink_800_800/0/1584267178282?e=1619049600&v=beta&t=U3cKmYbny8TH-zsySMLu0bV3DEL2bZyNFlUnSfeyA-o">
+  <img width="250" align='left' border="50%" src="https://media-exp1.licdn.com/dms/image/C4D03AQGweRqR3iUMvQ/profile-displayphoto-shrink_800_800/0/1584267178282?e=1619049600&v=beta&t=U3cKmYbny8TH-zsySMLu0bV3DEL2bZyNFlUnSfeyA-o">
 </p>
+
 ### Who I'am?
 Lo que sea
 ```js
