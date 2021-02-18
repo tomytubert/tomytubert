@@ -41,5 +41,5 @@ Facebook:[Facebook Ads]
 ```
 
 ### Cool Projects
-[👉 My wordpress web about my hobbie "SUP♂️🏄"](https://www.paddlesurfhinchable.es)
+[👉 My wordpress web about my hobbie "SUP🏄"](https://www.paddlesurfhinchable.es)<br>
 [👉 App projects with HBS about tennis & paddle matches](https://together-ironhack.herokuapp.com/)
