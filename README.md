@@ -4,7 +4,7 @@
 
  <h1>Hi there , I'm Tomy Tubert👋</h1>
   <br/>
-  <a href="mailto:ctomytubert@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Tomy%2C%0A%0A..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:tomytubert@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Tomy%2C%0A%0A..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/tomy.tubert"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tomy-tubert-gonzalez"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
