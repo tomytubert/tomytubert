@@ -1,9 +1,10 @@
 <header>
-    <img width=500 align='left' src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
+    <img width=500 src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
 </header>
- <h1>Hi there , I'm Tomy Tubert👋</h1>
+ <h1>Hi there , I'm Tomas Tubert👋</h1>
   <br/>
   <a href="mailto:tomytubert@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Tomy%2C%0A%0A..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tomas-tubert-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="https://instagram.com/tomy.tubert"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tomy-tubert-gonzalez"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
