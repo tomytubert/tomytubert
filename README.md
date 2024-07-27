@@ -1,9 +1,9 @@
 <header>
   <a href="https://www.linkedin.com/in/tomy-tubert-gonzalez">
-    <img width="150" align='left' src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
+    <img width=500 align='left' src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
   </a>
 </header>
-
+<br/>
  <h1>Hi there , I'm Tomy Tubert👋</h1>
   <br/>
   <a href="mailto:tomytubert@gmail.com?subject=[GitHub]%20🔥%20Contact&body=Hello%20Tomy%2C%0A%0A..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
