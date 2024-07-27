@@ -1,5 +1,5 @@
 <header>
-  <a href="https://www.linkedin.com/in/tomy-tubert-gonzalez"><img src="https://media.licdn.com/dms/image/D4D03AQEEMTorxyByOA/profile-displayphoto-shrink_800_800/0/1669296309619?e=1727308800&v=beta&t=Bl2JtpbwYmbIeRct4hindvwhRNx_-XfD2Z9FiLP0pQo"></a>
+  <a href="https://www.linkedin.com/in/tomy-tubert-gonzalez"><img width=50 height=50 style="border-radius:100%" src="https://media.licdn.com/dms/image/D4D03AQEEMTorxyByOA/profile-displayphoto-shrink_800_800/0/1669296309619?e=1727308800&v=beta&t=Bl2JtpbwYmbIeRct4hindvwhRNx_-XfD2Z9FiLP0pQo"></a>
 </header>
 
  <h1>Hi there , I'm Tomy Tubert👋</h1>
