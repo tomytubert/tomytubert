@@ -1,5 +1,7 @@
 <header>
-  <a href="https://www.linkedin.com/in/tomy-tubert-gonzalez"><img width=50 height=50 style="border-radius:100%" src="https://media.licdn.com/dms/image/D4D03AQEEMTorxyByOA/profile-displayphoto-shrink_800_800/0/1669296309619?e=1727308800&v=beta&t=Bl2JtpbwYmbIeRct4hindvwhRNx_-XfD2Z9FiLP0pQo"></a>
+  <a href="https://www.linkedin.com/in/tomy-tubert-gonzalez">
+    <img width="150" align='left' src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
+  </a>
 </header>
 
  <h1>Hi there , I'm Tomy Tubert👋</h1>
@@ -9,7 +11,7 @@
   <a href="https://linkedin.com/in/tomy-tubert-gonzalez"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
 <p>
-  <img width="150" align='left' src="https://media.licdn.com/dms/image/D4D16AQEmmyqDzGmvaQ/profile-displaybackgroundimage-shrink_350_1400/0/1669295679810?e=1727308800&v=beta&t=litkL5WRPTek9GmU3GBNdaI8oLsXpSvbASfmd0aOXeY">
+<img width=50 height=50 src="https://media.licdn.com/dms/image/D4D03AQEEMTorxyByOA/profile-displayphoto-shrink_800_800/0/1669296309619?e=1727308800&v=beta&t=Bl2JtpbwYmbIeRct4hindvwhRNx_-XfD2Z9FiLP0pQo">
 </p>
 
 
