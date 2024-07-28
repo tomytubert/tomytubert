@@ -17,12 +17,11 @@
 
 🧜🏼‍♂️🏄🏽‍♂️💻
 <br>
-I'm a Front-End developer passionate about creating attractive and functional interfaces. With 3 years of experience in React Js, I enjoy finding new ways to captivate users. 
+I'm a Front-End developer passionate about creating attractive and functional interfaces. Since I was a kid, I've always loved creating things from scratch, which led me to become a programmer. I started programming in 2021 and since then I have gained experience with technologies such as Angular, React, Next.js and Node.js.
 
-I also have knowledge in digital marketing, SEO and SEM, applied in successful projects. I have created projects from scratch, such as ohmydog.io, using technologies like Node.js, Next.js and Firebase. 
+With 3 years of experience in React Js, I enjoy finding new ways to captivate users. In addition, I have knowledge in digital marketing, SEO and SEM, applied in successful projects.
 
-Problem solving and empathy are my strengths.
-
+I enjoy working in a team with good communication.
 
 ### Things I code with
 
